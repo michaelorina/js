@@ -1,0 +1,23 @@
+Javascript is a multiparadigm language:
+
+~ Event-driven
+~ Functional
+~ Object-oriented
+~ Imperative
+~ Declarative
+
+Js is constantly evolving
+ECMAScript - Standardized Version ES-6(Modern Js)
+
+Js Engine
+Executes Code in Browser
+Just-in-time compilation.
+
+Primitive Types:
+~ Numbers
+~ BigInt
+~ Boolean
+~ String
+~ Symbol
+~ Null
+~ Undefined
